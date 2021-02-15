@@ -5,14 +5,14 @@ This week the client is a prospective small business owner in Hawaii. Upon heari
 ##June Temps - Peak Summer
 Everybody knows the best nugs are caught with the sun high and the water warm. Using 7 years of data racking up 1700 temperature reads we're looking at some prime ice cream and surf weather.
 
-![june](http://github.com/junepic)
+![june temps](https://github.com/davidandcarr/vandcamp_mod9_surfsup/blob/main/resources/juntemp.png)
 
 As you can see, we've got an enjoyable heat. Over seven years and it never got over 85 degrees. This, combined with peak tourism dates in June means plenty of  Bennys trying to hang ten, then needing a treat to ice out their ego when they fall out. Surfers aside, most everyone will enjoy a sweet, cool treat when they're in paradise.
 
 ##December Temps - Peak Winter
 Much like its distant redneck cousin, Destin, Florida, Hawaii touts a rush of winter tourism as folks are itching to shed their winter coats. And it's no wonder with temps like these in Oahu.
 
-![december](link)
+![december temps](https://github.com/davidandcarr/vandcamp_mod9_surfsup/blob/main/resources/dectemp.png)
 
 Slightly less data points (maybe the lifeguards had holiday benefits) but the December numbers are just as favorable as June. With some conjecture, about 70% of the temperature reads in December are 70 degrees or higher. While the waters may be a little cooler from the migratory currents, the beach will certainly still be an ideal sightseeing and ice cream eating spot on the island.
 
